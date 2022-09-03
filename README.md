@@ -290,7 +290,7 @@
         src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnalagad&show_icons=true&locale=en&layout=compact"
         alt="krishnalagad" />
 </p>
-
+<br/>
 <p>
     &nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=krishnalagad&show_icons=true&locale=en"
