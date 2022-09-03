@@ -270,7 +270,7 @@
       height="40"
     />
   </a>
-  <a
+  <!-- <a
     href="https://www.adobe.com/products/xd.html"
     target="_blank"
     rel="noreferrer"
@@ -281,7 +281,7 @@
       width="40"
       height="40"
     />
-  </a>
+  </a>-->
 </p>
 <hr/>
 
