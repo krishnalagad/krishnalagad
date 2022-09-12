@@ -284,21 +284,19 @@
   </a>-->
 </p>
 <hr/>
-
 <div>
-    <p>
-    <img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnalagad&show_icons=true&locale=en&layout=compact"
+<p>
+<img align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnalagad&show_icons=true&locale=en&layout=compact"
+    alt="krishnalagad" />
+</p>
+
+<p>
+    &nbsp;<img align="center"
+        src="https://github-readme-stats.vercel.app/api?username=krishnalagad&show_icons=true&locale=en"
         alt="krishnalagad" />
-    </p>
-
-    <p>
-        &nbsp;<img align="center"
-            src="https://github-readme-stats.vercel.app/api?username=krishnalagad&show_icons=true&locale=en"
-            alt="krishnalagad" />
-    </p>
+</p>
 </div>
-
 <!-- <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnalagad&" alt="krishnalagad" />
 </p> -->
