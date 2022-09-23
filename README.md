@@ -46,7 +46,7 @@
       height="40"
     />
   </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+  <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg"
       alt="spring"
