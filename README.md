@@ -12,7 +12,7 @@
 - 💬 Ask me about **Spring boot, Hibernate ORM, Microservices.** 
 - 📫 How to reach me **krishnalagad2@gmail.com** 
 - 📄 Know about my experiences [Download my resume](https://krishnalagad.github.io/krishna.github.io/Krishna-Resume-4.pdf)
-- ⚡ Fun fact is  **I think I'm netizen & you are too.**
+- ⚡ Fun fact is  **I think I'm netizen & you are too.**<br/>
 <hr/>
 
 <h3 align="left">Connect with me:</h3>
