@@ -8,7 +8,7 @@
 </p>
  -->
 - 🌱 I’m currently learning **BE in Computer Engineering.** 
-- 👨‍💻 All of my projects are available at my portfolio [http://bit.ly/3x2D8oj](http://bit.ly/3x2D8oj) 
+- 👨‍💻 Visit my portfolio [http://bit.ly/3x2D8oj](http://bit.ly/3x2D8oj) 
 - 💬 Ask me about **Spring boot, Hibernate ORM, Microservices.** 
 - 📫 How to reach me **krishnalagad2@gmail.com** 
 - 📄 Know about my experiences [Download my resume](https://krishnalagad.github.io/krishna.github.io/Krishna-Resume-4.pdf)
