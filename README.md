@@ -14,7 +14,7 @@
 - 📄 Know about my experiences [Download my resume](https://krishnalagad.github.io/krishna.github.io/Krishna-Resume-4.pdf)
 - ⚡ Fun fact is  **I think I'm netizen & you are too.**<br/>
 <!-- <hr/> -->
-
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/krishnalagad__" target="blank"><img align="center"
