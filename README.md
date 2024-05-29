@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krishna Lagad</h1>
 <h3 align="center">A passionate FULL STACK JAVA DEVELOER & PARTIALLY C++ DEVELOPER from India.</h3> </br>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2634a2d82ff1eabac79a0d764a8b7c8d1ba213810ccac7def23abf04811a8067/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a6c684f617833635a4154475a774568473075545952412e676966"/>
+<img align="right" alt="Coding" width="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1690034956546/101c1694-7e87-458e-afd5-ab65c48c468e.gif"/>
 
 <!-- <p align="left">
     <img src="https://komarev.com/ghpvc/?username=krishnalagad&label=Profile%20views&color=0e75b6&style=flat"
