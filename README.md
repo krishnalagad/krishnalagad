@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishna Lagad</h1>
-<h3 align="center">A passionate FULL STACK JAVA DEVELOER & PARTIALLY C++ DEVELOPER from India.</h3> </br>
+<h3 align="center">A passionate FULL STACK JAVA DEVELOER from India.</h3> </br>
 <img align="right" alt="Coding" width="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1690034956546/101c1694-7e87-458e-afd5-ab65c48c468e.gif"/>
 
 <!-- <p align="left">
